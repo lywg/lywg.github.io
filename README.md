@@ -1,4 +1,4 @@
-# Learn_Javascript
+# Make Momentum using Javascript
 
 ### Using Vanilla Javascript, made my Momentum page
 #### - Course from nomadcoders -
